@@ -134,3 +134,10 @@ make check
 %doc LICENSE-2.0.txt README CHANGELOG
 %_libdir/libclassad.a
 %_libdir/libclassad_ns.a
+
+
+%changelog
+* Wed Feb 08 2012 Alexander Khrukin <akhrukin@mandriva.org> 1.0.10-1
++ Revision: 771894
+- imported package classads
+
