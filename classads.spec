@@ -6,7 +6,7 @@
 Summary:	Condor's classified advertisement language
 Name:		classads
 Version:	1.0.10
-Release:	4
+Release:	5
 License:	ASLv2.0
 Group:		System/Libraries
 Url:		http://www.cs.wisc.edu/condor/classad/
