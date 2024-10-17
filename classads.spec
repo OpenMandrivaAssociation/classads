@@ -9,7 +9,7 @@ Version:	1.0.10
 Release:	12
 License:	ASLv2.0
 Group:		System/Libraries
-Url:		http://www.cs.wisc.edu/condor/classad/
+Url:		https://www.cs.wisc.edu/condor/classad/
 Source0:	ftp://ftp.cs.wisc.edu/condor/classad/c++/%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(libpcre)
 
